@@ -1,0 +1,64 @@
+body {
+    background-color: #f5d9d5;
+}
+/*Change color to match blue picture with media query*/
+@media (max-width: 575px) {
+    .first-text {
+        font-size: 1.0rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .first-text {
+        font-size: 2.2rem;
+    }
+}
+
+@media (min-width: 950px) {
+    .first-text {
+        font-size: 2.9rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .first-text {
+        font-size: 3.9rem;
+    }
+}
+
+span {
+    color: red;
+}
+
+.navbar-light .navbar-brand {
+    color: rgb(255, 0, 0);
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: red;
+}
+
+.first-text {
+    color: white;
+}
+
+.section_header {
+    color: red;
+}
+
+.paragraph {
+    color: rgba(200, 0, 0, 0.8)
+}
+
+.section_footer {
+    color: red;
+    font-size: 1.0rem;
+}
