@@ -1,2 +1,2 @@
 # Museum-of-Candy
-Web page created using HTML5, CSS3 and Bootstrap 4 as part of Udemy's Web Developer Bootcamp. Responsive to mobile, tablet and computer viewport sizes.
+Expand and collapse the browser window to see the layout change according to xs, sm, md and lg viewport widths.
